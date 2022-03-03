@@ -1,4 +1,4 @@
-# A proof of Concept for State Management in Flutter using Provider and Getx
+# A proof of Concept for State Management in Flutter using Provider and GetX
 
 This is a very simple application that uses Provider and GetX libraries for state management.
 In this the routing is done through GetX while provider helps with state management.
