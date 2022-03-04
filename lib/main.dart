@@ -53,6 +53,9 @@ class MyApp extends StatelessWidget {
                         Get.to(()=>const ScreenThree());
                         break;
                       }
+                      default : {
+                        break;
+                      }
                     }
                   },
                   child: const Text("Launch Screen")
